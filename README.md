@@ -1,5 +1,3 @@
-# MacroAnvilDupe (MAD)
-
 #  MacroAnvilDupe (MAD)
 Well, since [Glorman](https://github.com/GGlorman/AnvilDupe) did a Anvil duper and called it a "Auto" Anvil Duper i decided to fork it and do a high ping version so yeah, if you are a high ping player on 1F2D and want to have a "Auto" duper here it is.\
 \
