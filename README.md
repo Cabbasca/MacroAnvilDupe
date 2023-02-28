@@ -33,9 +33,9 @@ Btw you will need Pip installed on your computer to execute it on your cmd
 
 ## Known bugs
 
-- Screen size
+- Screen size: 
 Depending of your monitor, the macro can go outside of the anvil
-- Delay
+- Delay: 
 If your ping is higher than 250ms you will have to slow down the duper (maybe can work with 350ms)
 
 HOW DO I FIX IT?!?!? Fix by yourself changing the code, isn't that hard.\
