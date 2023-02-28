@@ -2,28 +2,28 @@ import pyautogui
 from pynput import keyboard
 from time import sleep
 
-print("Program is running!")
+print("-- Forked by Visivel, Made by Glorman. --")
+print("-- Hope you enjoy dupe your trash lol --")
 
 COMBINATIONS = [
-    {keyboard.KeyCode(char='l')},
-    {keyboard.KeyCode(char='L')}
+    {keyboard.KeyCode(char=']')}
 ]
 
 current = set()
 
 
 def execute():
-    print("Bot is on!")
-    pyautogui.moveTo(748, 432)
-    sleep(0.01)
+    print("Bot duped your shit")
+    pyautogui.moveTo(854, 495)
+    sleep(0.3)
     pyautogui.click()
-    sleep(0.01)
+    sleep(0.3)
     pyautogui.press("space")
-    sleep(0.01)
-    pyautogui.moveTo(1178, 432)
-    sleep(0.01)
+    sleep(0.3)
+    pyautogui.moveTo(1069, 496)
+    sleep(0.3)
     pyautogui.click()
-    sleep(0.01)
+    sleep(0.3)
 
 
 def on_press(key):
