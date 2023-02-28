@@ -39,6 +39,8 @@ Depending of your monitor, the macro can go outside of the anvil
 If your ping is higher than 250ms you will have to slow down the duper (maybe can work with 350ms)
 
 HOW DO I FIX IT?!?!? Fix by yourself changing the code, isn't that hard.\
-You just gotta to change `pyautogui.moveTo(spot of the anvil)` and `sleep(delay)`
+You just gotta to change `pyautogui.moveTo(spot of the anvil)` and `sleep(delay)`\
+Or ask to Glorman do that for you at his dm or requests.\
+IM NOT GOING TO GIVE YOU SUPPORT, any issue ask Glorman.
 
   
