@@ -8,10 +8,20 @@ Forked and modified by Visivel :3
 `Clone and download the repository to your computer.`\
 `Extract it wherever you want.`\
 `Open a Command Prompt and put the directory to where you downloaded.`\
-`Do py main.py`\
+`Go to the directory and do py main.py on cmd`\
 `In Minecraft open the Anvil Gui and click on the item that you wish to dupe.`\
 `Press ] and it will rename it with a space.`\
 `Press ] until the anvil breaks.`
+
+## Configuring
+
+`Go in main.py using Notepad or whatever compiler`
+`Change delay to your config, i recommend 0.01 for low ping users, or 0.5 for ultra high ping`
+`Change anvilslot1 for where you gonna place the item on the anvil`
+`Change anvilslot2 for where it gonna be the output of the item (the renamed item)`
+`Save changes and go to Command Prompt`
+`Do cd [your directory of where you downloaded this] (example: cd c:\downloads\MacroAnvilDupe-main)`
+`Then do py main.py (you will need Python installed for that, python.org)` 
 
 ## Dependencies and Installation for dummies
 
@@ -34,12 +44,10 @@ Btw you will need Pip installed on your computer to execute it on your cmd
 ## Known bugs
 
 - Screen size: 
-Depending of your monitor, the macro can go outside of the anvil
+You can change it at configs on main.py, i recommend using a software to view mouse coordinates
 - Delay: 
-If your ping is higher than 250ms you will have to slow down the duper (maybe can work with 350ms)
+You also can change that on configuration pretty easy.
 
-HOW DO I FIX IT?!?!? Fix by yourself changing the code, isn't that hard.\
-You just gotta to change `pyautogui.moveTo(spot of the anvil)` and `sleep(delay)`\
 Or ask to Glorman do that for you at his dm or requests.\
 IM NOT GOING TO GIVE YOU SUPPORT, any issue ask Glorman.
 
