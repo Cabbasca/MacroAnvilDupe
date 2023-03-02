@@ -39,6 +39,7 @@ Btw you will need Pip installed on your computer to execute it on your cmd
 
 - Slower duper adapted for ~250ms players
 - Changed the keybind to ] instead of L
+- Easily configurable
 
 
 ## Known bugs
