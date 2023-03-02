@@ -6,24 +6,39 @@ print("-- Forked by Visivel, Made by Glorman. --")
 print("-- Hope you enjoy dupe your trash lol --")
 
 COMBINATIONS = [
-    {keyboard.KeyCode(char=']')}
+    {keyboard.KeyCode(char=']')} # Change the keybind here, just change "]" to your keybind
 ]
 
-current = set()
+# Configuration area for self use
+
+delay = 0.2 #>> Set the delay of the bot right here!
+anvilslot1 = 854,495 #>> Set where is the anvil slot to insert the item
+anvilslot2 = 1069,496 #>> Set where is the second slot to get the renamed item
+current = set() 
 
 
 def execute():
     print("Bot duped your shit")
-    pyautogui.moveTo(854, 495)
-    sleep(0.3)
+    pyautogui.moveTo(anvilslot1)
+    sleep(delay)
     pyautogui.click()
-    sleep(0.3)
+    sleep(delay)
     pyautogui.press("space")
-    sleep(0.3)
-    pyautogui.moveTo(1069, 496)
-    sleep(0.3)
+    sleep(delay)
+    pyautogui.moveTo(anvilslot2)
+    sleep(delay)
     pyautogui.click()
-    sleep(0.3)
+    sleep(delay)
+    pyautogui.moveTo(anvilslot1)
+    sleep(delay)
+    pyautogui.click()
+    sleep(delay)
+    pyautogui.press("backspace")
+    sleep(delay)
+    pyautogui.moveTo(anvilslot2)
+    sleep(delay)
+    pyautogui.click()
+    sleep(delay)
 
 
 def on_press(key):
