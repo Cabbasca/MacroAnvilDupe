@@ -15,12 +15,12 @@ Forked and modified by Visivel :3
 
 ## Configuring
 
-`Go in main.py using Notepad or whatever compiler`
-`Change delay to your config, i recommend 0.01 for low ping users, or 0.5 for ultra high ping`
-`Change anvilslot1 for where you gonna place the item on the anvil`
-`Change anvilslot2 for where it gonna be the output of the item (the renamed item)`
-`Save changes and go to Command Prompt`
-`Do cd [your directory of where you downloaded this] (example: cd c:\downloads\MacroAnvilDupe-main)`
+`Go in main.py using Notepad or whatever compiler`\
+`Change delay to your config, i recommend 0.01 for low ping users, or 0.5 for ultra high ping`\
+`Change anvilslot1 for where you gonna place the item on the anvil`\
+`Change anvilslot2 for where it gonna be the output of the item (the renamed item)`\
+`Save changes and go to Command Prompt`\
+`Do cd [your directory of where you downloaded this] (example: cd c:\downloads\MacroAnvilDupe-main)`\
 `Then do py main.py (you will need Python installed for that, python.org)` 
 
 ## Dependencies and Installation for dummies
