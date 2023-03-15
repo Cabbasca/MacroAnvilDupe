@@ -15,7 +15,7 @@ Forked and modified by Visivel :3
 
 ## Configuring
 
-`Go in main.py using Notepad or whatever compiler`\
+`Go in main.py using Notepad or whatever text editor you want`\
 `Change delay to your config, i recommend 0.01 for low ping users, or 0.5 for ultra high ping`\
 `Change anvilslot1 for where you gonna place the item on the anvil`\
 `Change anvilslot2 for where it gonna be the output of the item (the renamed item)`\
